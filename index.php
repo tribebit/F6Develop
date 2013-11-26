@@ -11,9 +11,11 @@
     <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
     <link rel="stylesheet" href="/styles.css" type="text/css">
 </head>
+
+
 <body>
     <section class="congratulations">
-        <h1>Congratulations!</h1>
+        <h1>Congratulations!!!!!</h1>
         <p>Your AWS Elastic Beanstalk <em>PHP</em> application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
         <p>You are running PHP version <?= phpversion() ?></p>
     </section>
